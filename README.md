@@ -15,7 +15,7 @@ This project helps buyers and sellers make better pricing decisions using data-d
 Features used in dataset:
 1. Car Name
 2. Year
-3. Selling Price (Target)
+3. Selling Price (Target variable )
 4. Present Price
 5. Kms Driven
 6. Fuel Type
