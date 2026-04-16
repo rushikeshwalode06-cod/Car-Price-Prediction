@@ -4,6 +4,7 @@
 The Car Price Prediction project uses Machine Learning to estimate the price of a car based on various features such as brand, year, fuel type, kilometers driven, and more.
 
 This project helps buyers and sellers make better pricing decisions using data-driven insights.
+![ML](https://github.com/rushikeshwalode06-cod/Car-Price-Prediction/blob/main/Car%20Price.png?raw=true)
 
 ## 🎯 Objective
 1. Predict car selling price
