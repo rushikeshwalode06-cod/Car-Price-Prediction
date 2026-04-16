@@ -36,7 +36,8 @@ Linear Regression
 1. Data Collection
 2. Data Preprocessing
 3. Model Training
-4. Model Evaluation
+4. Model Testing
+5. Model Evaluation
 
 ## 📊 Model Evaluation
 R² Score
