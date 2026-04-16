@@ -33,6 +33,8 @@ Features used in dataset:
 ##🧠 ML Algorithms Used
 Linear Regression
 
+![ML](https://github.com/rushikeshwalode06-cod/Car-Price-Prediction/blob/main/car%20price%20graph.png?raw=true)
+
 ## 🔄 Workflow
 1. Data Collection
 2. Data Preprocessing
